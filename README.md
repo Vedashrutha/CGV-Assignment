@@ -25,7 +25,16 @@ Create a new project and paste the main.cpp file to your project directory.
 ## Screenshots
 <table>
     <tr>
-
+        <td>
+            <img src="https://github.com/Vedashrutha/CGV-Assignment/blob/main/main.png"
+            title="Textured Look"
+            style="display: inline-block; margin: 0 auto; width: 500px; height:380px">
+        </td>
+        <td>
+            <img src="https://github.com/Vedashrutha/CGV-Assignment/blob/main/.png"
+            title="Textured Look"
+            style="display: inline-block; margin: 0 auto; width: 500px; height:380px">
+        </td>
     </tr>
 
   <tr>
