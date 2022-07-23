@@ -1,5 +1,5 @@
 
-Hi! I'm **Vedashruta**:sunglasses:.
+Heyy!!
 This repo contains the code and installation guide for CGV mini project **_STEAM ENGINE SIMULATION_**.
 This Project is coded in C++ and with OpenGL API.
 
@@ -27,12 +27,12 @@ Create a new project and paste the main.cpp file to your project directory.
     <tr>
         <td>
             <img src="https://github.com/Vedashrutha/CGV-Assignment/blob/main/main.png"
-            title="Textured Look"
+            title="Main Screen"
             style="display: inline-block; margin: 0 auto; width: 500px; height:380px">
         </td>
         <td>
-            <img src="https://github.com/Vedashrutha/CGV-Assignment/blob/main/.png"
-            title="Textured Look"
+            <img src="https://github.com/Vedashrutha/CGV-Assignment/blob/main/user_inst.png"
+            title="Manual"
             style="display: inline-block; margin: 0 auto; width: 500px; height:380px">
         </td>
     </tr>
@@ -40,12 +40,12 @@ Create a new project and paste the main.cpp file to your project directory.
   <tr>
         <td>
             <img src="https://github.com/Vedashrutha/CGV-Assignment/blob/main/Menu.png"
-            title="Textured Look"
+            title="Mouse Click"
             style="display: inline-block; margin: 0 auto; width: 500px; height:380px">
         </td>
     <td>
         <img src="https://github.com/Vedashrutha/CGV-Assignment/blob/main/Piston.png"
-            title="Textured Look"
+            title="Piston"
             style="display: inline-block; margin: 0 auto; width: 500px; height:380px">
     </td>
   </tr>
