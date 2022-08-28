@@ -1,7 +1,7 @@
 
 Heyy!!
 This repo contains the code and installation guide for CGV mini project **_STEAM ENGINE SIMULATION_**.
-This Project is coded in C++ and with OpenGL API.
+This Project is built using C++ and with OpenGL API.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
